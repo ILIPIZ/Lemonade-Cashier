@@ -1,0 +1,2 @@
+This is a simple cashier so that I can sell lemonade. 
+You just have to change the price in the code.
